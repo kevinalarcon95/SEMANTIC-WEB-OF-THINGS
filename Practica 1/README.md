@@ -6,7 +6,7 @@ Para dar inicio a la práctica 1, se utilizó la maquina virtual ENDEAVOUROS bas
 
 #### Imagen 1.Entorno de trabajo.
 
-![Imagen1.Entorno de trabajo]([https://github.com/kevinalarcon95/SEMANTIC-WEB-OFTHINGS/blob/main/Practica%201/Imagenes/Entorno%20de%20trabajo.jpeg](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%201/Imagenes/Entorno%20de%20trabajo.jpeg))
+![Imagen1.Entorno](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/e22f04424f0d2c2ff6cac54ca5c1536721c2b45b/Practica%201/Imagenes/Entorno%20de%20trabajo.jpeg)
 
 ------------
 **2.Instalar docker**
