@@ -20,4 +20,7 @@
  
  ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/Actualizacion%20nodejs.jpg)
  
- 
+ 3.Validar las versiones instaladas, ejecute:
+
+**sudo n stable**
+  ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/verificar%20version.jpg)
