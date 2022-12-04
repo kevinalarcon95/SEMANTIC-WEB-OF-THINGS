@@ -1,1 +1,1 @@
-# SEMANTIC-WEB-OF-THINGS
+# Informes Practicas SWoT
