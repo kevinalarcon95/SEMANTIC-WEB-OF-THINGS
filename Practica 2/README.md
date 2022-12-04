@@ -158,6 +158,7 @@ Para verificar los scripts disponibles, se puede ejecutar el comando:
 ** netstat -tulpn | grep node**
 
 La terminal responderá con la siguiente información:
+
 ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/respuesta%20servidor.jpg)
 
 Luego ya se puede probar el servidor con el comando en otra terminal:
