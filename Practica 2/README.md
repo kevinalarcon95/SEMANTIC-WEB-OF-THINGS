@@ -79,7 +79,7 @@ Para verificar los scripts disponibles, se puede ejecutar el comando:
 
 **cat package.json**
 
-**
+~~~
 {
   "name": "practica_02",
   "version": "0.0.1",
@@ -151,11 +151,11 @@ Para verificar los scripts disponibles, se puede ejecutar el comando:
     "testEnvironment": "node"
   }
 }
-**
+~~~
 
 5.Con lo anterior el servidor nos indica que está listo para recibir peticiones con el metodo GET en la ruta raíz. Por defecto el servidor escucha en el puerto 3000, para verificar esto se puede ejecutar el comando en otra terminal:
 
-** netstat -tulpn | grep node**
+**netstat -tulpn | grep node**
 
 La terminal responderá con la siguiente información:
 
@@ -169,12 +169,12 @@ La terminal responderá con la siguiente información:
 
 ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/Hello.jpg)
 
-## ** III. Publicando el código en GitHub **
+## **III. Publicando el código en GitHub**
 
 Link del repositorio:
 
 https://github.com/kevinalarcon95/UC_Practicas_IoT_Servidor.git
 
-## ** IV. Los verbos HTTP**
+## **IV. Los verbos HTTP**
 
 
