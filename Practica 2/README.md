@@ -177,4 +177,24 @@ https://github.com/kevinalarcon95/UC_Practicas_IoT_Servidor.git
 
 ## **IV. Los verbos HTTP**
 
+1. Conecte VSCode a la máquina virtual, para esto se debe seleccionar el botón Remote-SSH: Connect to Host... en la sección Remote Explorer.
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/remote.jpg)
+
+2. Comprobando funcionamiento del servidor
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/funcionamiento%20Servidor.jpg)
+
+3. Prueba desde el navegador
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/prueba%20navegador.jpg)
+
+4. Creando un modificador
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/mensaje%20modificado.jpg)
+
+5. Prueba navegador (Modificador)
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/picacku.jpg)
+
 
