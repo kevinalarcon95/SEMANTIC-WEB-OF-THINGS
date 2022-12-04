@@ -10,3 +10,14 @@
   ** paru -S nodejs **
   
   ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/INstalaci%C3%B3n%20nodejs.jpg)
+
+2.Actualizar Nodejs:
+
+ ** 
+ sudo npm cache clean -f
+ sudo npm install -g n
+ sudo n stable**
+ 
+ ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/Actualizacion%20nodejs.jpg)
+ 
+ 
