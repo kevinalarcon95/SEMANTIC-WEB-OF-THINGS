@@ -169,12 +169,12 @@ La terminal responderá con la siguiente información:
 
 ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/Hello.jpg)
 
-## **III. Publicando el código en GitHub **
+## ** III. Publicando el código en GitHub **
 
 Link del repositorio:
 
 https://github.com/kevinalarcon95/UC_Practicas_IoT_Servidor.git
 
-## **IV. Los verbos HTTP**
+## ** IV. Los verbos HTTP**
 
 
