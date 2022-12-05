@@ -197,4 +197,18 @@ https://github.com/kevinalarcon95/UC_Practicas_IoT_Servidor.git
 
 ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/picacku.jpg)
 
+## Punto #8
 
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/crud.jpg)
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%202/Practica%202/Imagenes/postman.jpg)
+
+Servidor listo para recibir peticiones.
+
+Nombre completo: Kevin Fernando Alarcón Camayo.
+
+Nombre de la asignatura: Electiva Desarrollo de Software - Web Semántica loT.
+
+Fecha de realización: 05/12/2022.
+
+Repositorio: https://github.com/kevinalarcon95/UC_Practicas_IoT_Servidor
