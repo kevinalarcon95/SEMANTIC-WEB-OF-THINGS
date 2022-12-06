@@ -43,3 +43,7 @@ nest g service users
 4. Enpoint POST del servidor.
 
 ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%203/Imagenes/imagen7.jpg)
+
+Link del repositorio: https://github.com/kevinalarcon95/UC_Practicas_IoT_Servidor/tree/seguridad
+
+## III. Autenticación con JWT
