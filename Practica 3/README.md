@@ -21,3 +21,25 @@
 4. Modificar el controlador player.controller.ts para que se emplee el la implementación del servicio.
 
 ![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%203/Imagenes/imagen4.jpg)
+
+## II. Implementado seguridad
+
+1. Instalar el paquete @nestjs/passport y passport, que permitirá implementar la autenticación y autorización.
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%203/Imagenes/imagen5.jpg)
+
+2. NestJS integra un método para generar módulos rápidamente, primero se creará un módulo para autenticación.
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%203/Imagenes/imagen6.jpg)
+
+3. Asi mismo se creará un módulo para gestionar usuarios con los comandos:
+
+~~~
+nest g module users
+
+nest g service users
+~~~
+
+4. Enpoint POST del servidor.
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%203/Imagenes/imagen7.jpg)
