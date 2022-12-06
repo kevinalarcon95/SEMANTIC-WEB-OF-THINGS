@@ -47,3 +47,14 @@ nest g service users
 Link del repositorio: https://github.com/kevinalarcon95/UC_Practicas_IoT_Servidor/tree/seguridad
 
 ## III. Autenticación con JWT
+
+1. Para implementar la autenticación con JWT se debe instalar el paquete @nestjs/jwt.
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%203/Imagenes/imagen8.jpg)
+
+2. Generar Token.
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%203/Imagenes/imagen9.jpg)
+
+3. Proteja los endpoints que tengan capacidad de modificar o eliminar registros.
+
