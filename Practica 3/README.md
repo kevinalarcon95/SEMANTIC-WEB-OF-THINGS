@@ -58,3 +58,11 @@ Link del repositorio: https://github.com/kevinalarcon95/UC_Practicas_IoT_Servido
 
 3. Proteja los endpoints que tengan capacidad de modificar o eliminar registros.
 
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%203/Imagenes/imagen10.jpg)
+
+4. Evidencia del funcionamiento de los endpoints protegidos.
+
+![](https://github.com/kevinalarcon95/SEMANTIC-WEB-OF-THINGS/blob/main/Practica%203/Imagenes/imagen11.jpg)
+
+Link del repositorio: https://github.com/kevinalarcon95/UC_Practicas_IoT_Servidor/tree/JWT
+
